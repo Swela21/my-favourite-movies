@@ -1,0 +1,49 @@
+body{
+    background: linear-gradient(to bottom, #0A0E17 0%, #0F1C26 25%, #12303A 50%, #0F4A56 75%, #0E676E 100%);
+}
+#division{
+    background-color: #030511;
+    background: none;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-shadow: 2px 2px 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(197, 202, 192);
+
+}
+#division1{
+    background: none;
+    h2{
+        text-align: center;
+        text-decoration: underline;
+        color: rgb(231, 237, 237);
+    }
+    img{
+        border-radius: 5px;
+    }
+}
+#division2{
+    background: none;
+    h2{
+        text-decoration: underline;
+        text-align: center;
+        color: aliceblue;
+    }
+    img{
+        border-radius: 8px;
+    }
+}
+#division3{
+    background: none;
+    h2{
+        text-align: center;
+        text-decoration: underline;
+        color: antiquewhite;
+    }
+    img{
+        border-radius: 56px;
+    }
+}
